@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+server/chat.db
+server/uploads/*
+!server/uploads/.gitkeep
+.pytest_cache/
+.env

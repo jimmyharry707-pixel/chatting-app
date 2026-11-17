@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+PyQt5>=5.15
+requests>=2.31
+websocket-client>=1.7
+python-multipart>=0.0.9
+pytest>=8.0
