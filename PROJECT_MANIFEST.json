@@ -24,6 +24,7 @@
     "docs/ARCHITECTURE.md",
     "docs/OPERATIONS.md",
     "docs/SECURITY.md",
+    "LICENSE",
     "install_windows.bat",
     "requirements.txt",
     "run_client.bat",
